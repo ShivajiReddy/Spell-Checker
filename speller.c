@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
     // Structures for timing data
     struct rusage before, after;
 
-    // Benchmarks
+    //Benchmarks
     double time_load = 0.0, time_check = 0.0, time_size = 0.0, time_unload = 0.0;
 
     // Determine dictionary to use
