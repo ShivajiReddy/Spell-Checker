@@ -23,7 +23,6 @@ node* first;
 // Returns true if word is in dictionary else false
 bool check(const char *word)
 {
-    // TODO
     node* node_ptr = first;
     for (int i = 0, len = strlen(word); i <= len; ++i)
     {   if (word[i] == '\0')
