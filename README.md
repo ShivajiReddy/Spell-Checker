@@ -1,5 +1,5 @@
 # Spell Checker:
-This is implemented using hashtables as part of CS50 ProblemSet - 5   [(link to the challenge)](https://docs.cs50.net/2018/x/psets/5/speller/speller.html#understanding)
+This is implemented using hashtables as part of CS50 ProblemSet - 5   [(link to the challenge)](https://docs.cs50.net/2018/x/psets/5/speller/speller.html#understanding).
 
 Each word in the input file is compared with words in large dictionary (143091 words!) and prints the all the misspelt words in the file, along with the total number of misspelt words and some other stats.
 
